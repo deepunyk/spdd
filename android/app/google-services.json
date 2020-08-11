@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48960656351",
+    "firebase_url": "https://spdd-285710.firebaseio.com",
+    "project_id": "spdd-285710",
+    "storage_bucket": "spdd-285710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48960656351:android:ffb08267db7b7b8c1eaa6a",
+        "android_client_info": {
+          "package_name": "com.xti.sunny_paji_da_dhabha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48960656351-h07u6n0eeu2f5a035qmdi2t1ikje3350.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xti.sunny_paji_da_dhabha",
+            "certificate_hash": "ab857117e49d1ecb00e003301e1f73e6e8106a0d"
+          }
+        },
+        {
+          "client_id": "48960656351-il8bpbrfh6dg1cccnqnepb8589humd9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz5iMtr2zVip3bQTN5Q0LHjTxVexm8eD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48960656351-il8bpbrfh6dg1cccnqnepb8589humd9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
